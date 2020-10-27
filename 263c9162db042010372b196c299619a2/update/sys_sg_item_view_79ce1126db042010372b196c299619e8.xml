@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Shopping List Shopping Item">f9ce1126db042010372b196c299619e6</data_item>
+        <dependency_fields>store-41927,item-32753,quantity-7686,number-39952,purchased-39954</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{},"Id":12259,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"store","Id":41927}]},{"Type":"Text","Margin":{"Top":8},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"medium","Size":18},"Id":22124},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E3","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${item}","Id":32752},{"Type":"Text","Margin":{},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"item","Id":32753}],"Margin":{"Top":8},"Id":12261},{"Type":"ViewGroup","Margin":{"Top":4},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E4","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${quantity}","Id":7685},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"quantity","Id":7686}],"Id":12262},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E5","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":39950},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E5","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"Id":39951},{"Type":"Text","studio_ignore":true,"BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"CellId":"number","Id":39952},{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E6","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${purchased}","Id":39953},{"Type":"Text","studio_template_field_id":"E6","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"CellId":"purchased","Id":39954}],"Id":12263}],"studio_card_id":"ab9d601d23412300a8ed7f4fc7bf65d4","Id":28090}</item_view_json>
+        <name>Shopping Item Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-27 04:39:40</sys_created_on>
+        <sys_id>79ce1126db042010372b196c299619e8</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Shopping Item Detail Screen Item View</sys_name>
+        <sys_package display_value="Shopping List" source="x_547336_shopping">263c9162db042010372b196c299619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">263c9162db042010372b196c299619a2</sys_scope>
+        <sys_update_name>sys_sg_item_view_79ce1126db042010372b196c299619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-27 05:00:25</sys_updated_on>
+        <table>x_547336_shopping_shopping_item</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=79ce1126db042010372b196c299619e8"/>
+</record_update>
